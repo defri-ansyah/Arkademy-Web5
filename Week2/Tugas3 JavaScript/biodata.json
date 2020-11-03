@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Aditya Saputra",
+      "username": "adit",
+      "email": "aditya13@gmail.com",
+      "address": {
+        "street": "Jl. Gajah Mada",
+        "suite": "Apt. 305",
+        "city": "Bandar Lampung",
+        "zipcode": "34561"
+      },
+      "phone": "082279123123",
+      "hobby": "Anime"
+    },
+    {
+      "id": 2,
+      "name": "Rio Aditya Putra",
+      "username": "RioAP",
+      "email": "rioaditya567@gmail.com",
+      "address": {
+        "street": "Jl. Raden Gunawan",
+        "suite": "No. 359",
+        "city": "Lampung Selatan",
+        "zipcode": "325567"
+      },
+      "phone": "081369242486",
+      "Hobby": "Melamun"
+    },
+    {
+      "id": 3,
+      "name": "Rizky Fadhlillah",
+      "username": "RizkyF",
+      "email": "rizkyfadhlillah007@outlook.com",
+      "address": {
+        "street": "Jl. Gatot Subroto",
+        "suite": "Blok.C, No.5",
+        "city": "Metro",
+        "zipcode": "34761"
+      },
+      "phone": "08893770855",
+      "Hobby": "Main game"
+    },
+    {
+      "id": 4,
+      "name": "Kurnia Pangestu",
+      "username": "Kuroko",
+      "email": "kurniapangestu008@outlook.com",
+      "address": {
+        "street": "Jl. Bukit Kemiling Permai",
+        "suite": "Blok. Y, No. 3",
+        "city": "Bandar Lampung",
+        "zipcode": "355671"
+      },
+      "phone": "085269531241",
+      "Hobby": "Tidur"
+    },
+    {
+      "id": 5,
+      "name": "Tri Sumanzaya",
+      "username": "Ayiiik",
+      "email": "trisumanzaya@gmail.com",
+      "address": {
+        "street": "Jl. Veteran",
+        "suite": "No. 145",
+        "city": "Lampung Selatan",
+        "zipcode": "325789"
+      },
+      "phone": "(254)954-1289",
+      "Hobby": "Main game"
+    }
+]
