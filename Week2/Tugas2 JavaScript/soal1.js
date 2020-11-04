@@ -29,10 +29,10 @@
 //7. String split
 //     Split digunakan untuk membagi string menjadi array substring dan mengembalikan array baru tanpa mengubah string asli. contoh syntax:
      let arka = "We Are Bootcamp ARKADEMY Family";
-     let hasil1 = dumet.split(" ");
-     let hasil2 = dumet.split("");
-     let hasil3 = dumet.split(" ", 4);
-     let hasil4 = dumet.split("o");
+     let hasil1 = arka.split(" ");
+     let hasil2 = arka.split("");
+     let hasil3 = arka.split(" ", 4);
+     let hasil4 = arka.split("o");
      console.log(hasil1 + " <br>  " + hasil2 + "<br>" + hasil3 + "<br> " + hasil4);
 //8. Array join
 //      mengonversi string dari semua elemen array dengan menggabungkannya menjadi sebuah string. Jika elemen bernilai undefined atau null, akan dikonversi menjadi string kosong. contoh syntax:
